@@ -1,8 +1,6 @@
-# 2425_S1
-
 **Titel minor**
 
-Big Data and Computer Aided (Financial) Analysis.
+Big Data and AI Assisted (Financial) Analysis.
 
 **Omschrijving minor**
 
